@@ -11,6 +11,7 @@ licensing, documentation and support are available at
 
 ### Products
 
+- **[Adolsign](https://www.itefix.net/adolsign)** — Dynamic Microsoft Outlook Signatures
 - **[Copssh Server](https://www.itefix.net/copssh-server)** — OpenSSH/SFTP Server for Windows with GUI
 - **[cwRsync Server](https://www.itefix.net/cwrsync-server)** — Rsync Server for Windows with GUI
 - **[Rsync Client Helper](https://www.itefix.net/rsync-client-helper-gui)** — GUI for building and running rsync commands
