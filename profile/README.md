@@ -19,4 +19,4 @@ licensing, documentation and support are available at
 ### Free Software
 
 - **[cwRsync](https://www.itefix.net/cwrsync)** — Rsync client for Windows
-- **[ulaknode](https://www.itefix.net/ulaknode)** — Complete business mail stack in a single Docker container
+- **[ulaknode](https://github.com/itefix/ulaknode)** — Self-hosted mail server in a single Docker container
